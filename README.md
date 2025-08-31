@@ -1,4 +1,4 @@
 # Fine-tune-Orpheus-or-Sesame-CSM-1B-with-Unsloth-Voice-Cloningl-
-this project is unde progress there a error with parameters in Training which is being fixed at the moment
+This project is in progress. There is an error with the parameters in Training, which is being fixed at the moment
 
 Would require 1 more day
